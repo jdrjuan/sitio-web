@@ -12,6 +12,10 @@ h2 {
     background-color: rgb(211, 211, 211);
 }
 
+h3 {
+    background-color: rgb(224, 245, 232);
+}
+
 .seccion-bancos {
     border: 3px solid #444;
     padding: 1em;
