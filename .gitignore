@@ -1,0 +1,15 @@
+# Archivos por extensión
+*.log
+*.tmp
+*.temp
+*.dll
+
+# Archivos específicos
+db-local.json
+db-testing.json
+
+# Carpetas
+temp/
+tmp/
+logs/
+node_modules/
