@@ -37,3 +37,9 @@ body {
 .navbar a:hover {
     background-color: #2f2f2f;
 }
+
+.servicio {
+    border: 2px dotted #333;
+    padding: 1em;
+    margin: 1em;
+}
