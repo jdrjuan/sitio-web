@@ -14,14 +14,14 @@ body {
 
 }
 
-.navbar ul {
+.navbar__list {
     list-style-type: none;
     padding: 0;
     margin: 0;
     display: flex;
 }
 
-.navbar li {
+.navbar__item {
     width: 100%;
 }
 
