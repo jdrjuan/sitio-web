@@ -58,6 +58,13 @@ main {
     margin: 1em;
 }
 
+.article-nosotros {
+    background-color: #e2e2e2;
+    padding: 1em;
+    margin-bottom: 1em;
+    border-radius: 5px;
+}
+
 .main-footer {
     background-color: #29292e;
     color: #d0d0d0;
