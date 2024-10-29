@@ -65,6 +65,14 @@ main {
     border-radius: 5px;
 }
 
+.faq {
+    border-bottom: 2px dotted;
+}
+
+.faq:nth-child(odd) {
+    color: rgb(36, 56, 148);
+}
+
 .main-footer {
     background-color: #29292e;
     color: #d0d0d0;
