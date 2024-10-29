@@ -38,6 +38,14 @@ body {
     background-color: #2f2f2f;
 }
 
+.navbar__item--cart a {
+    background-color: hsl(229, 87%, 54%);
+}
+
+.navbar__item--cart a:hover {
+    background-color: hsl(229, 87%, 50%);
+}
+
 .servicio {
     border: 2px dotted #333;
     padding: 1em;
