@@ -1,0 +1,10 @@
+# Directorios:
+node_modules/
+temp/
+tmp/
+logs/
+
+# Archivos:
+*.temp
+*.tmp
+visitas.log
