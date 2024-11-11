@@ -61,3 +61,13 @@ nav a:hover {
 .row {
     padding: 0.5em;
 }
+
+input,
+textarea {
+    background-color: #f0f8fa;
+}
+
+input:focus,
+textarea:focus {
+    background-color: #e0e8ea;
+}
