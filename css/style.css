@@ -54,5 +54,10 @@ nav a:hover {
 }
 
 .form-footer {
-    border: 2px solid red;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.row {
+    padding: 0.5em;
 }
