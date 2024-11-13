@@ -81,3 +81,13 @@ header {
     padding-right: 1em;
     text-align: right;
 }
+
+footer {
+    background-color: #121212;
+    color: #b4b4b4;
+    text-align: center;
+}
+
+footer a {
+    color: #e4e4e4;
+}
