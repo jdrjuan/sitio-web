@@ -116,3 +116,7 @@ footer {
 footer a {
     color: #e4e4e4;
 }
+
+.section-nosotros {
+    border-top: 2px dotted #777;
+}
