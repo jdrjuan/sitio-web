@@ -74,3 +74,10 @@ input:focus,
 textarea:focus {
     background-color: #e0e8ea;
 }
+
+header {
+    background-color: #121212;
+    padding: 0.5em;
+    padding-right: 1em;
+    text-align: right;
+}
