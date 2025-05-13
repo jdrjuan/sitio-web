@@ -8,3 +8,8 @@ body {
     font-weight: normal;
     color: #246;
 }
+
+.navbar {
+    border: 3px solid #333;
+}
+
