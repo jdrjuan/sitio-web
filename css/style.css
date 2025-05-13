@@ -13,3 +13,7 @@ body {
     border: 3px solid #333;
 }
 
+.navbar__list {
+    border: 4px solid orangered;
+}
+
