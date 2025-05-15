@@ -14,18 +14,34 @@ h1 {
 }
 
 .navbar {
-    border: 3px solid #333;
+    /* border: 3px solid #333; */
 }
 
 .navbar__list {
-    border: 4px solid orangered;
+    /* border: 4px solid orangered; */
+    list-style-type: none;
+    padding-left: 0;
+    display: flex;
+    flex-direction: column;
+    
 }
 
 .navbar__item {
-    border: 4px solid blue;
+    /* border: 4px solid blue; */
 }
 
 .navbar__link {
-    border: 4px solid orchid;
+    /* border: 4px solid orchid; */
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 7px;
+    background-color: #234;
+    color: #f1f1f1;
+}
+
+.navbar__link:hover {
+    background-color: #123;
+    color: #f1f1f1;
 }
 
