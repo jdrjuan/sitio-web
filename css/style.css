@@ -4,6 +4,10 @@ body {
     background-color: #f2f2f2;
 }
 
+h1 {
+    text-align: center;
+}
+
 .horario {
     font-weight: normal;
     color: #246;
