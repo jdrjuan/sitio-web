@@ -8,3 +8,20 @@ body {
     font-weight: normal;
     color: #246;
 }
+
+.navbar {
+    border: 3px solid #333;
+}
+
+.navbar__list {
+    border: 4px solid orangered;
+}
+
+.navbar__item {
+    border: 4px solid blue;
+}
+
+.navbar__link {
+    border: 4px solid orchid;
+}
+
